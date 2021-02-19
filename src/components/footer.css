@@ -1,0 +1,17 @@
+.exploreIcon, .mealIcon,.drinkIcon {
+  height: 100%;
+  width: 100%;
+  padding: 4% 0 4% 0;
+}
+
+.footer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  border-top: 1px solid black;
+  background: white;
+  bottom: 0;
+  height: 8.5%;
+  position: fixed;
+  width: 100vw;
+}
