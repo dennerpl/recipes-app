@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/recipes-app/static/css/main.8834731a.chunk.css",
+    "main.js": "/recipes-app/static/js/main.4ffcdf37.chunk.js",
+    "main.js.map": "/recipes-app/static/js/main.4ffcdf37.chunk.js.map",
+    "runtime-main.js": "/recipes-app/static/js/runtime-main.1228032d.js",
+    "runtime-main.js.map": "/recipes-app/static/js/runtime-main.1228032d.js.map",
+    "static/css/2.3cb1bbd9.chunk.css": "/recipes-app/static/css/2.3cb1bbd9.chunk.css",
+    "static/js/2.7bdc8d02.chunk.js": "/recipes-app/static/js/2.7bdc8d02.chunk.js",
+    "static/js/2.7bdc8d02.chunk.js.map": "/recipes-app/static/js/2.7bdc8d02.chunk.js.map",
+    "index.html": "/recipes-app/index.html",
+    "precache-manifest.c9931210f9bccfbe9fbfe6aad2b48db3.js": "/recipes-app/precache-manifest.c9931210f9bccfbe9fbfe6aad2b48db3.js",
+    "service-worker.js": "/recipes-app/service-worker.js",
+    "static/css/2.3cb1bbd9.chunk.css.map": "/recipes-app/static/css/2.3cb1bbd9.chunk.css.map",
+    "static/css/main.8834731a.chunk.css.map": "/recipes-app/static/css/main.8834731a.chunk.css.map",
+    "static/js/2.7bdc8d02.chunk.js.LICENSE.txt": "/recipes-app/static/js/2.7bdc8d02.chunk.js.LICENSE.txt",
+    "static/media/blackHeartIcon.svg": "/recipes-app/static/media/blackHeartIcon.b8913346.svg",
+    "static/media/drinkIcon.svg": "/recipes-app/static/media/drinkIcon.f87c47c3.svg",
+    "static/media/exploreIcon.svg": "/recipes-app/static/media/exploreIcon.157945ff.svg",
+    "static/media/logoMS.png": "/recipes-app/static/media/logoMS.b3385853.png",
+    "static/media/mealIcon.svg": "/recipes-app/static/media/mealIcon.b27ba19e.svg",
+    "static/media/profileIcon.svg": "/recipes-app/static/media/profileIcon.74e487e5.svg",
+    "static/media/searchIcon.svg": "/recipes-app/static/media/searchIcon.db812135.svg",
+    "static/media/shareIcon.svg": "/recipes-app/static/media/shareIcon.06215ed4.svg",
+    "static/media/slick-theme.css": "/recipes-app/static/media/slick.f97e3bbf.svg",
+    "static/media/whiteHeartIcon.svg": "/recipes-app/static/media/whiteHeartIcon.ea3b6ba8.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1228032d.js",
+    "static/css/2.3cb1bbd9.chunk.css",
+    "static/js/2.7bdc8d02.chunk.js",
+    "static/css/main.8834731a.chunk.css",
+    "static/js/main.4ffcdf37.chunk.js"
+  ]
+}
